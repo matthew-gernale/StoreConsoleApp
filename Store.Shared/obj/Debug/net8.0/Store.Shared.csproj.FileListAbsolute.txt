@@ -1,0 +1,11 @@
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\bin\Debug\net8.0\Store.Shared.deps.json
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\bin\Debug\net8.0\Store.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\bin\Debug\net8.0\Store.Shared.pdb
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.AssemblyInfoInputs.cache
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.AssemblyInfo.cs
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\refint\Store.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.pdb
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\ref\Store.Shared.dll

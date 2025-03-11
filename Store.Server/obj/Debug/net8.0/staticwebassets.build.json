@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OstlSeWFq5fB6TxLKi3w07U8synzwmt7zz1bQ0O9K0Q=",
+  "Source": "Store.Server",
+  "BasePath": "_content/Store.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
