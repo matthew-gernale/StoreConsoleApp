@@ -25,11 +25,14 @@ This repository contains a **Simple Inventory Management System** built as a **c
    ```sh
    cd StoreConsoleApp
    ```
-3. Build and run the application:
+3. Update the Server name according to your local server name:
+   ```sh
+   "StoreDefaultConnection": "Server={Your-Server-Name};Database=store_db;Trusted_Connection=True;TrustServerCertificate=True;"
+   ```
+4. Build and run the application:
    ```sh
    dotnet run
    ```
-
 ---
 
 **Author:** John Matthew T. Gernale
