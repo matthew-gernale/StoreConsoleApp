@@ -35,5 +35,10 @@ This repository contains a **Simple Inventory Management System** built as a **c
    ```
 ---
 
+## Video Demonstration
+🚀 Watch the demonstration:
+
+[Watch the demo](https://raw.githubusercontent.com/matthew-gernale/StoreConsoleApp/main/Demo/demo.mp4)
+
 **Author:** John Matthew T. Gernale
 
