@@ -781,19 +781,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matthew Gernale\\.nuget\\packages\\": {}
+    "C:\\Users\\mattg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\Inventory Management System Console App\\Store\\Store.Client\\Store.Client.csproj",
+      "projectUniqueName": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Client\\Store.Client.csproj",
       "projectName": "Store.Client",
-      "projectPath": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\Inventory Management System Console App\\Store\\Store.Client\\Store.Client.csproj",
-      "packagesPath": "C:\\Users\\Matthew Gernale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\Inventory Management System Console App\\Store\\Store.Client\\obj\\",
+      "projectPath": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Client\\Store.Client.csproj",
+      "packagesPath": "C:\\Users\\mattg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matthew Gernale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mattg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -808,8 +808,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\Inventory Management System Console App\\Store\\Store.Shared\\Store.Shared.csproj": {
-              "projectPath": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\Inventory Management System Console App\\Store\\Store.Shared\\Store.Shared.csproj"
+            "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Shared\\Store.Shared.csproj": {
+              "projectPath": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Shared\\Store.Shared.csproj"
             }
           }
         }
@@ -850,7 +850,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

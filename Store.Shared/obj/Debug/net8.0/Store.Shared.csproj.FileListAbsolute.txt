@@ -9,3 +9,15 @@ C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\refint\Store.Shared.dll
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\Store.Shared.pdb
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Shared\obj\Debug\net8.0\ref\Store.Shared.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\bin\Debug\net8.0\Store.Shared.deps.json
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\bin\Debug\net8.0\Store.Shared.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\bin\Debug\net8.0\Store.Shared.pdb
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.AssemblyInfoInputs.cache
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.AssemblyInfo.cs
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.sourcelink.json
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\refint\Store.Shared.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\Store.Shared.pdb
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Shared\obj\Debug\net8.0\ref\Store.Shared.dll

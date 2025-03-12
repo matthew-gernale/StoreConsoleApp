@@ -129,6 +129,10 @@ namespace Store.Client.Pages
                 const int idWidth = 5, nameWidth = 25, priceWidth = 12, stockWidth = 8;
                 int totalWidth = idWidth + nameWidth + priceWidth + stockWidth + 12;
 
+                Console.WriteLine();
+                Console.WriteLine("Store Products");
+                Console.WriteLine();
+
                 // table header
                 Console.WriteLine(new string('-', totalWidth));
                 Console.WriteLine($"| {"ID",-idWidth} | {"Name",-nameWidth} | {"Price",-priceWidth} | {"Stock",-stockWidth}|");

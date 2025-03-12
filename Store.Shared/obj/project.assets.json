@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matthew Gernale\\.nuget\\packages\\": {}
+    "C:\\Users\\mattg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\StoreConsoleApp\\Store.Shared\\Store.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Shared\\Store.Shared.csproj",
       "projectName": "Store.Shared",
-      "projectPath": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\StoreConsoleApp\\Store.Shared\\Store.Shared.csproj",
-      "packagesPath": "C:\\Users\\Matthew Gernale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\StoreConsoleApp\\Store.Shared\\obj\\",
+      "projectPath": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Shared\\Store.Shared.csproj",
+      "packagesPath": "C:\\Users\\mattg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mattg\\OneDrive\\Desktop\\ASP.Net\\StoreConsoleApp\\Store.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matthew Gernale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mattg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -30,3 +30,36 @@ C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\Inventory Management System Console App\Store\Store.Client\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Client.exe
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Client.deps.json
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Client.runtimeconfig.json
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Client.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Client.pdb
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Shared.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\bin\Debug\net8.0\Store.Shared.pdb
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.csproj.AssemblyReference.cache
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.AssemblyInfoInputs.cache
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.AssemblyInfo.cs
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.csproj.CoreCompileInputs.cache
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.sourcelink.json
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Cl.A5A836C6.Up2Date
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\refint\Store.Client.dll
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.pdb
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\Store.Client.genruntimeconfig.cache
+C:\Users\mattg\OneDrive\Desktop\ASP.Net\StoreConsoleApp\Store.Client\obj\Debug\net8.0\ref\Store.Client.dll
